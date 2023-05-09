@@ -65,6 +65,7 @@
                 "networkCombo",
                 "number",
                 "onewayCheck",
+		"openingHours",
                 "radio",
                 "restrictions",
                 "roadheight",
